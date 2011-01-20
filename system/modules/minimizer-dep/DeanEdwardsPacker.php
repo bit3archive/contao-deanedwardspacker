@@ -36,7 +36,7 @@
  * @author     Tristan Lins <tristan.lins@infinitysoft.de>
  * @package    Compression API
  */
-class DeanEdwardsPacker extends AbstractCssMinimizer implements JsMinimizer
+class DeanEdwardsPacker extends AbstractMinimizer
 {
 	/**
 	 * load the JavaScriptPacker class
