@@ -31,6 +31,6 @@
 /**
  * Back end modules
  */
-$GLOBALS['TL_LANG']['MOD']['minimizer-dep'] = array('Compression API - Dean Edwards Packer', '"Dean Edwards Packer" JavaScript Minimizer.');
+$GLOBALS['TL_LANG']['MOD']['dep'] = array('Dean Edwards Packer', '"Dean Edwards Packer" JavaScript Minimizer.');
 
 ?>
